@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="DashBoard">My Survey</string>
+    <string name="app_header"><![CDATA[Start your survey now. Fast & Easy to use. Try now for free.]]></string>
+    <string name="noAccount">Not have account yet!?</string>
+    <string name="or">---OR LOGIN WITH---</string>
+</resources>
